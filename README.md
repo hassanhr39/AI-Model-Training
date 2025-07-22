@@ -48,3 +48,9 @@ The dataset used is a small CSV file named `house_prices.csv`, containing:
 ```plaintext
 Predicted price: $215,714.29
 R² Score: 0.98
+
+---
+
+## 👨‍💻 Author
+Mohammad Hassan
+GitHub: @hassanhr39
